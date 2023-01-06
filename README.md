@@ -8,4 +8,7 @@
 Chose the value x, and a number n high enough for the approximation, chose whether you want to calculate sin, cos, tan, cossec, sec or cotan and it gives you the corresponding.
 
 ## ATM Machine
-Enter a number and it will give you some options of withdrawing this money on bills
+Enter a number and it will give you some options of withdrawing this money on bills.
+
+## Verify CPF
+Verify if the CPF (brazilian ID code) is valid. Also, there's a function to invert the order of a number (if the parameter passed is 123, the return will be 321).
