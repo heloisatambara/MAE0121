@@ -6,3 +6,6 @@
 
 ## Trigonometry calculator
 Chose the value x, and a number n high enough for the approximation, chose whether you want to calculate sin, cos, tan, cossec, sec or cotan and it gives you the corresponding.
+
+## ATM Machine
+Enter a number and it will give you some options of withdrawing this money on bills
